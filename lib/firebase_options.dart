@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCP3NR9XytaGU1lX2HVvQw4BeL6G_ZOwgs',
-    appId: '1:1061183235633:web:5a388ec8c9781f3b4e5710',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1061183235633',
     projectId: 'mgc-management',
     authDomain: 'mgc-management.firebaseapp.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBbFbal-HFex1mdJHYzvfspBCvauX_sLdg',
-    appId: '1:1061183235633:android:a03cd9b40247804d4e5710',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1061183235633',
     projectId: 'mgc-management',
     storageBucket: 'mgc-management.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC95_p3AWdFfyh4geyEWewKT1rzJ2ApZA4',
-    appId: '1:1061183235633:ios:9c5d817ef8b920ee4e5710',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1061183235633',
     projectId: 'mgc-management',
     storageBucket: 'mgc-management.firebasestorage.app',
@@ -68,8 +68,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC95_p3AWdFfyh4geyEWewKT1rzJ2ApZA4',
-    appId: '1:1061183235633:ios:9c5d817ef8b920ee4e5710',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1061183235633',
     projectId: 'mgc-management',
     storageBucket: 'mgc-management.firebasestorage.app',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCP3NR9XytaGU1lX2HVvQw4BeL6G_ZOwgs',
-    appId: '1:1061183235633:web:2fd9a0b8a18fb1d84e5710',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1061183235633',
     projectId: 'mgc-management',
     authDomain: 'mgc-management.firebaseapp.com',
