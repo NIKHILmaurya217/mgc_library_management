@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061183235633",
+    "project_id": "mgc-management",
+    "storage_bucket": "mgc-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061183235633:android:a03cd9b40247804d4e5710",
+        "android_client_info": {
+          "package_name": "com.mgc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFbal-HFex1mdJHYzvfspBCvauX_sLdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061183235633:android:d2073d90aff97f654e5710",
+        "android_client_info": {
+          "package_name": "com.nikhil.mgc_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFbal-HFex1mdJHYzvfspBCvauX_sLdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

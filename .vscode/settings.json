@@ -1,0 +1,12 @@
+{
+  // Exclude the Flutter Pub cache from Java/Gradle project discovery.
+  // This stops the "Project configurator 'org.eclipse.buildship.configurators.base' failed"
+  // errors that appear because VS Code's Java extension tries (and fails) to configure
+  // Android sub-projects inside cached Flutter plugins.
+  "java.import.exclusions": [
+    "**/Pub/Cache/**",
+    "**/.dart_tool/**",
+    "**/build/**"
+  ],
+  "gradle.nestedProjects": false
+}
